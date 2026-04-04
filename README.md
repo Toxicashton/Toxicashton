@@ -3,8 +3,8 @@
 
 - 🔭 **I’m currently working on:**  exploring Generative AI applications  
 - 🌱 **I’m currently learning:** Advanced Cryptography, Generative AI models, and scalable system design  
-- 👯 **I’m looking to collaborate on:** Open-source projects in AI/ML (especially Generative AI), Web Development, and Security-focused applications  
-- 🤔 **I’m looking for help with:** Building secure, efficient AI-driven systems and cryptographic implementations  
+- 👯 **I’m looking to work on:** Open-source projects in AI/ML (especially Generative AI), Web Development, and Security-focused applications  
+<!--- 🤔 **I’m looking for help with:** Building secure, efficient AI-driven systems and cryptographic implementations  -->
 - 💬 **Ask me about:** MERN stack, Flutter, React, Generative AI, and Cryptography basics,flutter  
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I love experimenting with tech, cooking new recipes, and hiking when I’m not coding!  
