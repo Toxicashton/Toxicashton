@@ -2,10 +2,10 @@
 **A passionate Software Developer || Generative AI Explorer || Cryptography Enthusiast || Final-year CSE Student from India**
 
 - 🔭 **I’m currently working on:**  exploring Generative AI applications  
-- 🌱 **I’m currently learning:** Advanced Cryptography, Generative AI models, and scalable system design  
-- 👯 **I’m looking to work on:** Open-source projects in AI/ML (especially Generative AI), Web Development, and Security-focused applications  
+- 🌱 **I’m currently learning:** Advanced Cryptography, Generative AI models  
+- 👯 **I would love to collaborate and learn on :** Open-source projects in AI/ML (especially Generative AI), Web Development, and Security-focused applications  
 <!--- 🤔 **I’m looking for help with:** Building secure, efficient AI-driven systems and cryptographic implementations  -->
-- 💬 **Ask me about:** MERN stack, Flutter, React, Generative AI, and Cryptography basics,flutter  
+- 💬 **Ask me about:** MERN stack, Flutter, React, Generative AI, and Cryptography basics,flutter,Selenium framwork  
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I love experimenting with tech, cooking new recipes, and hiking when I’m not coding!  
 
